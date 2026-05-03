@@ -1,6 +1,6 @@
 # PLATO RealLog Agent
 
-Vision Turbo-Shell for reallog.ai. Camera systems → PLATO → agent interpretation.
+Real-World Scene Logger for reallog.ai. Camera events → PLATO → persistent spatial memory.
 
 ## Quick Start
 
