@@ -18,3 +18,8 @@ print(agent.ask("who came to the front door?"))
 - Camera frames → described text → PLATO tiles
 - Agent reads PLATO → answers visual questions
 - "Don the shell" → view from another camera's perspective
+
+## Related
+
+- [reallog.ai](https://reallog.ai) — Live site
+- [reallog-ai-pages](https://github.com/SuperInstance/reallog-ai-pages) — GitHub Pages source
